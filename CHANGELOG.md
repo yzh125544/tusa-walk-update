@@ -16,7 +16,7 @@ APK 放置：Google 雲端「成果展 互動平台／走遊土坂維護」
 |---|---|
 | 行動版最新 | **第7版**（v1.2.6g，versionCode 132），雲端 ID `1GmUR9nfn3K4euAS5bcYke4QrQVgO7YRx` |
 | GitHub 版本檔 | 132／1.2.6g，SHA256 與雲端 APK、本機 APK 三方一致 ✅ |
-| 雲端「走遊土坂維護」 | 6e、6f、6g 三個 APK＋「更新紀錄」＋「行動版介紹」 ✅ |
+| 雲端「走遊土坂維護」 | 走遊土坂APP第5版／第6版／第7版_20261111.apk 三個 APK＋「更新紀錄」＋「行動版介紹」 ✅（2026-11-12 改名，檔案 ID 不變） |
 | 本機工作區 | 桌面「走遊土坂APP第7版_20261111」（原 6e 工作區遺失，從 tusa_build_tools 重建） |
 | 打包工具與金鑰 | `C:\Users\OSAS\tusa_build_tools`（signing\ 內有 tusawalk-v126e.jks） |
 | 展場版（展場電腦） | **展場第7版**（內部 v1.2.5 c22，與 APP 第7版對應）：桌面「走遊土坂展場第7版_20261111」＋同名 .zip；讀秒／辨識照手機版、首頁景點輪播；📱 待實測 |
@@ -94,6 +94,6 @@ APK 放置：Google 雲端「成果展 互動平台／走遊土坂維護」
 
 1. 在最新原始碼上改（目前：桌面「走遊土坂APP第7版_20261111\01」，或 `C:\Users\OSAS\tusa_build_tools`；新版的本機資料夾命名為「走遊土坂APP第N版_日期」，N 加 1），versionCode 加 1、versionName 換字母，`android-host.js` 的 `APP_CODE`／`APP_NAME` 一起改。
 2. 在 `C:\Users\OSAS\tusa_build_tools` 用 `build_tusa_apk.mjs` 打包（會自動加快取版本號）→ zipalign → apksigner（新金鑰）。
-3. APK 上傳到雲端「走遊土坂維護」，核對雲端下載的 SHA256。
+3. APK 檔名改成「走遊土坂APP第N版_日期.apk」，上傳到雲端「走遊土坂維護」，核對雲端下載的 SHA256。
 4. 改 GitHub 的 `tusa-walk-update.json`（versionCode、versionName、apkFileId、apkUrl、size、sha256、notes）。
 5. 在這份更新紀錄最上面新增一節、更新「現況總覽」，雲端與 GitHub 兩份都更新；必要時同步「行動版詳細介紹」。
