@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 131,
-  "versionName": "1.2.6f",
-  "apkFileId": "1yOduExxlHcsQbj1ru7Rxt_ufR_vS295b",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1yOduExxlHcsQbj1ru7Rxt_ufR_vS295b&export=download&confirm=t",
+  "versionCode": 132,
+  "versionName": "1.2.6g",
+  "apkFileId": "1GmUR9nfn3K4euAS5bcYke4QrQVgO7YRx",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1GmUR9nfn3K4euAS5bcYke4QrQVgO7YRx&export=download&confirm=t",
   "size": 173834519,
-  "sha256": "2e1d082c51288f669ead23ae4724abf9bed6f3f8da03e22ef80505f3b37b1497",
+  "sha256": "db02db683b25324500b104883c68a03f71fb1d6e2ec1442cabb695145004fb9a",
   "minVersionCode": 0,
-  "notes": "修正前後鏡頭相反；鏡頭按鈕改成選單，可選後鏡頭、前鏡頭或關閉鏡頭。",
+  "notes": "修正更新後沒有換成新版的問題；首頁頁尾只留人社中心並加上底色；前後鏡頭與鏡頭選單（含關閉鏡頭）。",
   "published": "2026-11-11"
 }
