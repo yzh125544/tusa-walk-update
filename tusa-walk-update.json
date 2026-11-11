@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "package": "com.tjuaballab.tusawalk",
+  "versionCode": 130,
+  "versionName": "1.2.6e",
+  "apkFileId": "1GQW1gQiR_kBjWW8_8ipnaoO2FS_xVGRu",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1GQW1gQiR_kBjWW8_8ipnaoO2FS_xVGRu&export=download&confirm=t",
+  "size": 173830423,
+  "sha256": "a8bbeb19301ea560f70acd2f5bd2d19352e55681bc98be7ab1465818934fd3f0",
+  "minVersionCode": 0,
+  "notes": "改以手機背面鏡頭為主，首頁可切換前／後鏡頭；加入有新版本提示。",
+  "published": "2026-11-11"
+}
