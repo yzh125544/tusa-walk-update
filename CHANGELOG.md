@@ -1,0 +1,75 @@
+# 走遊土坂 行動版（Android）更新紀錄
+
+套件：`com.tjuaballab.tusawalk`｜時區：Asia/Taipei
+APK 放置：Google 雲端「成果展 互動平台／走遊土坂維護」
+版本檔（App 會讀它判斷有沒有新版）：`https://raw.githubusercontent.com/yzh125544/tusa-walk-update/main/tusa-walk-update.json`
+
+狀態標記：✅ 已完成／🖥 電腦模擬通過／📱 待實機確認
+
+---
+
+## v1.2.6g（versionCode 132）— 2026-11-11　← 目前最新
+
+- 雲端檔案 ID：`1GmUR9nfn3K4euAS5bcYke4QrQVgO7YRx`
+- 大小 173,834,519 bytes｜SHA256 `db02db683b25324500b104883c68a03f71fb1d6e2ec1442cabb695145004fb9a`
+- 簽章金鑰：`tusawalk-v126e.jks`（與 6e、6f 相同，可直接覆蓋安裝）
+
+**改了什麼**
+- 修正「裝了更新卻沒變、一直叫我更新」：App 外殼對 .js／.css 設「一年不變」快取，6f 檔名沒變，手機繼續跑 6e 的舊程式。6g 起打包時自動在改過的檔案網址加上版本號（如 `?v=132`），每一版都一定換成新程式。
+- 首頁頁尾只留「臺東大學人社中心數位軸運用 AI 製作」一行，改成滿版深綠色帶、米色字，logo 加米色底。
+- 保留 6f 全部內容。
+
+**驗證**：🖥 6f 的 11 項測試全過（用打包後的檔重跑）；🖥 以相同快取標頭模擬 6e→6g、6f→6g 都正確載入 6g；✅ 雲端下載檔與本機 SHA256 一致；📱 更新後不再跳提示、頁尾、前後鏡頭。
+
+---
+
+## v1.2.6f（versionCode 131）— 2026-11-11
+
+- 雲端檔案 ID：`1yOduExxlHcsQbj1ru7Rxt_ufR_vS295b`
+- 大小 173,834,519 bytes｜SHA256 `2e1d082c51288f669ead23ae4724abf9bed6f3f8da03e22ef80505f3b37b1497`
+
+**改了什麼**（YH 實機回報）
+- 修正前後鏡頭相反：改用系統回報的實際朝向（facingMode）開鏡頭與判斷鏡像，不再依鏡頭名稱（有些手機名稱與實際相反）。
+- 鏡頭按鈕改成選單：按鈕只顯示目前狀態（後鏡頭 ▾），按下去三選一：後鏡頭（手機背面）／前鏡頭（螢幕這一面）／關閉鏡頭；只有一顆鏡頭時為「開啟／關閉」。
+- 關閉鏡頭：停止辨識並釋放鏡頭，不會自動重開；首頁提示改為使用自動導覽；重開 App 仍維持關閉。
+
+**已知問題**：⚠ 從 6e 更新上來時，因快取仍跑 6e 程式（6g 修正）。救急：手機設定 → 應用程式 → 走遊土坂 → 儲存空間 → 清除快取。
+
+---
+
+## v1.2.6e（versionCode 130）— 2026-11-11
+
+- 雲端檔案 ID：`1GQW1gQiR_kBjWW8_8ipnaoO2FS_xVGRu`
+- 大小 173,830,423 bytes｜SHA256 `a8bbeb19301ea560f70acd2f5bd2d19352e55681bc98be7ab1465818934fd3f0`
+- 簽章金鑰：**改用新金鑰** `tusawalk-v126e.jks`（憑證 SHA-256 `995d3369…db938826`）。裝過 6b／6d 的手機要先解除安裝一次，之後都能直接覆蓋更新。
+
+**改了什麼**
+- 預設改用背面主鏡頭；從 6b／6d 升級時清掉舊版記住的前鏡頭。
+- 首頁地圖框右上角加前／後鏡頭切換鈕（6f 改為選單）。
+- 背面鏡頭畫面不鏡像。
+- 新增「有新版本，要更新嗎？」提示：開 App 約 10 秒後讀 GitHub 版本檔，之後每 6 小時再查；按「更新」用手機瀏覽器下載。
+- 版本檔放 GitHub（實測 Google 雲端會擋 App 網頁讀取，回 403）。
+
+**已知問題**：⚠ 鏡頭前後在部分手機相反（6f 修正）。
+
+---
+
+## v1.2.6d（versionCode 129）— 2026-11-11（Grok bot 製作）
+
+- 雲端檔案 ID：`11IhPevuK0837jMkpHLnjhwUq23RHdkK5`（在「成果展 互動平台」資料夾）
+- 大小 173,809,744 bytes｜SHA256 `a03d8abaa3d5385e56e62eee020f91dcdd819eb42202cde46acf284fadc57eed`
+- 簽章金鑰：Grok box 上的 `tusawalk-v126.jks`（與 6e 起不同）
+
+**改了什麼**
+- 首頁主框自動輪播走讀平台：路線地圖約 12 秒 ↔ 景點頁約 12 秒，1.4 秒淡入淡出；右下「南迴部落線上 走讀部落導覽」；點框開走讀平台；離線顯示主照片、每 60 秒重試。
+- 直式 A＋橫式 1 版面；頁尾三行。
+
+---
+
+## 出新版的固定流程（給接手的人）
+
+1. 在上一版的修改資料夾上改，versionCode 加 1、versionName 換字母，`android-host.js` 的 `APP_CODE`／`APP_NAME` 一起改。
+2. 在 `C:\Users\OSAS\tusa_build_tools` 用 `build_tusa_apk.mjs` 打包（會自動加快取版本號）→ zipalign → apksigner（新金鑰）。
+3. APK 上傳到雲端「走遊土坂維護」，核對雲端下載的 SHA256。
+4. 改 GitHub 的 `tusa-walk-update.json`（versionCode、versionName、apkFileId、apkUrl、size、sha256、notes）。
+5. 在這份更新紀錄最上面新增一節，雲端與 GitHub 兩份都更新。
