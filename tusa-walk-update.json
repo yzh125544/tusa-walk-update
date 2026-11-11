@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 130,
-  "versionName": "1.2.6e",
-  "apkFileId": "1GQW1gQiR_kBjWW8_8ipnaoO2FS_xVGRu",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1GQW1gQiR_kBjWW8_8ipnaoO2FS_xVGRu&export=download&confirm=t",
-  "size": 173830423,
-  "sha256": "a8bbeb19301ea560f70acd2f5bd2d19352e55681bc98be7ab1465818934fd3f0",
+  "versionCode": 131,
+  "versionName": "1.2.6f",
+  "apkFileId": "1yOduExxlHcsQbj1ru7Rxt_ufR_vS295b",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1yOduExxlHcsQbj1ru7Rxt_ufR_vS295b&export=download&confirm=t",
+  "size": 173834519,
+  "sha256": "2e1d082c51288f669ead23ae4724abf9bed6f3f8da03e22ef80505f3b37b1497",
   "minVersionCode": 0,
-  "notes": "改以手機背面鏡頭為主，首頁可切換前／後鏡頭；加入有新版本提示。",
+  "notes": "修正前後鏡頭相反；鏡頭按鈕改成選單，可選後鏡頭、前鏡頭或關閉鏡頭。",
   "published": "2026-11-11"
 }
