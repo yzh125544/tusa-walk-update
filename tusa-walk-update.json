@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 132,
-  "versionName": "1.2.6g",
-  "apkFileId": "1GmUR9nfn3K4euAS5bcYke4QrQVgO7YRx",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1GmUR9nfn3K4euAS5bcYke4QrQVgO7YRx&export=download&confirm=t",
-  "size": 173834519,
-  "sha256": "db02db683b25324500b104883c68a03f71fb1d6e2ec1442cabb695145004fb9a",
+  "versionCode": 133,
+  "versionName": "第8版",
+  "apkFileId": "1EGwWGd38L3q0WrdL00uAgVS0k8nUTc1Y",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1EGwWGd38L3q0WrdL00uAgVS0k8nUTc1Y&export=download&confirm=t",
+  "size": 286279022,
+  "sha256": "34d4a32d7527e2ec60d68daee1fb032358ab52a0133f095a9ad243d50ebc8482",
   "minVersionCode": 0,
-  "notes": "修正更新後沒有換成新版的問題；首頁頁尾只留人社中心並加上底色；前後鏡頭與鏡頭選單（含關閉鏡頭）。",
-  "published": "2026-11-11"
+  "notes": "新卡面與版畫風介面；本月山林曆、集章、大字模式、開場示範；故事結束畫面加 QR 碼；手機返回鍵回首頁；字幕對時與旁白收音。",
+  "published": "2026-11-12"
 }
