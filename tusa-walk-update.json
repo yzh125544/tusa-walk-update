@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 133,
-  "versionName": "第8版",
-  "apkFileId": "1EGwWGd38L3q0WrdL00uAgVS0k8nUTc1Y",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1EGwWGd38L3q0WrdL00uAgVS0k8nUTc1Y&export=download&confirm=t",
-  "size": 286279022,
-  "sha256": "34d4a32d7527e2ec60d68daee1fb032358ab52a0133f095a9ad243d50ebc8482",
+  "versionCode": 134,
+  "versionName": "第9版",
+  "apkFileId": "1Ts24XpnLcX6kJ1gcWRXdcSF7LI1NmsHJ",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1Ts24XpnLcX6kJ1gcWRXdcSF7LI1NmsHJ&export=download&confirm=t",
+  "size": 286283118,
+  "sha256": "0a99b84fc293b1550dde1dcf22e2ce7e95a9a9e50df2a0dd9594d9e7b4bfdfb6",
   "minVersionCode": 0,
-  "notes": "新卡面與版畫風介面；本月山林曆、集章、大字模式、開場示範；故事結束畫面加 QR 碼；手機返回鍵回首頁；字幕對時與旁白收音。",
+  "notes": "首頁卡片縮圖換新；故事結束顯示「謝謝您的耐心觀看」與集章進度；山林曆更明顯；一律大字；點 QR 碼開走讀平台頁；按住畫面 1.5 倍速；走讀平台頁可左右滑換景點。",
   "published": "2026-11-12"
 }
