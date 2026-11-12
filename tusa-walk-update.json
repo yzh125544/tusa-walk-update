@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 134,
-  "versionName": "第9版",
-  "apkFileId": "1Ts24XpnLcX6kJ1gcWRXdcSF7LI1NmsHJ",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1Ts24XpnLcX6kJ1gcWRXdcSF7LI1NmsHJ&export=download&confirm=t",
-  "size": 286283118,
-  "sha256": "0a99b84fc293b1550dde1dcf22e2ce7e95a9a9e50df2a0dd9594d9e7b4bfdfb6",
+  "versionCode": 135,
+  "versionName": "第10版",
+  "apkFileId": "1fLUTZm9_0j02P3MgnvozrW0bpTKQZM1E",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1fLUTZm9_0j02P3MgnvozrW0bpTKQZM1E&export=download&confirm=t",
+  "size": 286287214,
+  "sha256": "be5826afb7085bfba7890dd2e33003e60f04bdc4f296dfd3bfb0309888d9b722",
   "minVersionCode": 0,
-  "notes": "首頁卡片縮圖換新；故事結束顯示「謝謝您的耐心觀看」與集章進度；山林曆更明顯；一律大字；點 QR 碼開走讀平台頁；按住畫面 1.5 倍速；走讀平台頁可左右滑換景點。",
+  "notes": "辨識小窗改版畫風並與開場示範一致；首頁照片框固定大小；播放與轉場畫面跟首頁同風格；山林曆資料提供更醒目；修正 1.5 倍速與文字跑出畫面。",
   "published": "2026-11-12"
 }
