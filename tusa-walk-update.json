@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 137,
-  "versionName": "第12版",
-  "apkFileId": "1uuSocD4ICJA2uNg_l7Qa8xlxQ2nngaGH",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1uuSocD4ICJA2uNg_l7Qa8xlxQ2nngaGH&export=download&confirm=t",
-  "size": 289155475,
-  "sha256": "29dcf4cc1b940ab879bf02ed399a37f73f6e52b8aaf3c651bea652ff3efcf418",
+  "versionCode": 138,
+  "versionName": "第13版",
+  "apkFileId": "1wgPDW_SMrgkjgjaDCLU1b3OIfr03Away",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1wgPDW_SMrgkjgjaDCLU1b3OIfr03Away&export=download&confirm=t",
+  "size": 293584103,
+  "sha256": "345e696779b4b0e3e27553eeb7574ac2316e82a022db3469373c3ee7aca64bf9",
   "minVersionCode": 0,
-  "notes": "首頁改成離線走遊地圖動畫；新增實境體驗導航（轉彎提示、不在土坂提示）；新的片頭與集章動畫；新 App 圖示；修正關閉鏡頭後文字跳動、製作列固定在底部。",
+  "notes": "自動導覽照走讀路線順序；導航走到每一站自動打卡收集（有收集動畫），人沒到不能按「我到了」；九站收齊、十個故事聽完有慶祝動畫；轉彎前提醒與語音帶路；山林曆放上《土坂山林曆》原圖、可左右看別的月份；卡片對錯鏡頭會提醒換鏡頭；看完故事按 QR 碼不再卡住。",
   "published": "2026-11-13"
 }
