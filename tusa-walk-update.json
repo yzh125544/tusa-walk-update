@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 139,
-  "versionName": "第14版",
-  "apkFileId": "1C2mgzIxydHt7dnId-CUbCwR0ZJyHvfUx",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1C2mgzIxydHt7dnId-CUbCwR0ZJyHvfUx&export=download&confirm=t",
-  "size": 293666023,
-  "sha256": "5ba9f420a636268b6508707e9e36ef18b91ccdfd621fcc6e88e2843862c24b0b",
+  "versionCode": 140,
+  "versionName": "第15版",
+  "apkFileId": "1tmZh-MZuqYOQI-wkvnkNwHVcbEOYSLIP",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1tmZh-MZuqYOQI-wkvnkNwHVcbEOYSLIP&export=download&confirm=t",
+  "size": 311447867,
+  "sha256": "bb94ce8dbd7c65ba7967f45f0a8e3ea2adc9a552e4ad5434b6457c58381ffe93",
   "minVersionCode": 0,
-  "notes": "山林曆註明 2024 年桌曆、原圖擺正並裁掉線圈與掃描邊；離線地圖加上真實地形等高線、山坡林地、派出所／托兒所／郵筒／學校／公墓／橋等地標與路名；首頁地圖動畫更豐富（等高線畫出、樹擺動、雲飄、地標浮名、站卡顯示海拔）。",
+  "notes": "首頁標題改為「走進土坂，十處記憶。」；實境體驗先自由瀏覽、按「開始走遊」才帶路，走到才打開介紹並收集（到站震動、路上鼓勵）；每站介紹卡依走讀平台文章整理、走讀平台全部照片、位置小地圖、SDGs 圖示；聽故事改成小播放器；自訂行程（十站都能選）、暫停／繼續、離開前確認；導航第一人稱；首頁與走遊地圖動畫更好看。",
   "published": "2026-11-14"
 }
