@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 138,
-  "versionName": "第13版",
-  "apkFileId": "1wgPDW_SMrgkjgjaDCLU1b3OIfr03Away",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1wgPDW_SMrgkjgjaDCLU1b3OIfr03Away&export=download&confirm=t",
-  "size": 293584103,
-  "sha256": "345e696779b4b0e3e27553eeb7574ac2316e82a022db3469373c3ee7aca64bf9",
+  "versionCode": 139,
+  "versionName": "第14版",
+  "apkFileId": "1C2mgzIxydHt7dnId-CUbCwR0ZJyHvfUx",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1C2mgzIxydHt7dnId-CUbCwR0ZJyHvfUx&export=download&confirm=t",
+  "size": 293666023,
+  "sha256": "5ba9f420a636268b6508707e9e36ef18b91ccdfd621fcc6e88e2843862c24b0b",
   "minVersionCode": 0,
-  "notes": "自動導覽照走讀路線順序；導航走到每一站自動打卡收集（有收集動畫），人沒到不能按「我到了」；九站收齊、十個故事聽完有慶祝動畫；轉彎前提醒與語音帶路；山林曆放上《土坂山林曆》原圖、可左右看別的月份；卡片對錯鏡頭會提醒換鏡頭；看完故事按 QR 碼不再卡住。",
-  "published": "2026-11-13"
+  "notes": "山林曆註明 2024 年桌曆、原圖擺正並裁掉線圈與掃描邊；離線地圖加上真實地形等高線、山坡林地、派出所／托兒所／郵筒／學校／公墓／橋等地標與路名；首頁地圖動畫更豐富（等高線畫出、樹擺動、雲飄、地標浮名、站卡顯示海拔）。",
+  "published": "2026-11-14"
 }
