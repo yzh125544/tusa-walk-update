@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 135,
-  "versionName": "第10版",
-  "apkFileId": "1fLUTZm9_0j02P3MgnvozrW0bpTKQZM1E",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1fLUTZm9_0j02P3MgnvozrW0bpTKQZM1E&export=download&confirm=t",
-  "size": 286287214,
-  "sha256": "be5826afb7085bfba7890dd2e33003e60f04bdc4f296dfd3bfb0309888d9b722",
+  "versionCode": 137,
+  "versionName": "第12版",
+  "apkFileId": "1uuSocD4ICJA2uNg_l7Qa8xlxQ2nngaGH",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1uuSocD4ICJA2uNg_l7Qa8xlxQ2nngaGH&export=download&confirm=t",
+  "size": 289155475,
+  "sha256": "29dcf4cc1b940ab879bf02ed399a37f73f6e52b8aaf3c651bea652ff3efcf418",
   "minVersionCode": 0,
-  "notes": "辨識小窗改版畫風並與開場示範一致；首頁照片框固定大小；播放與轉場畫面跟首頁同風格；山林曆資料提供更醒目；修正 1.5 倍速與文字跑出畫面。",
-  "published": "2026-11-12"
+  "notes": "首頁改成離線走遊地圖動畫；新增實境體驗導航（轉彎提示、不在土坂提示）；新的片頭與集章動畫；新 App 圖示；修正關閉鏡頭後文字跳動、製作列固定在底部。",
+  "published": "2026-11-13"
 }
