@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 141,
-  "versionName": "第16版",
-  "apkFileId": "1HhfNACgt1jjEVoh0EVsOYyQ1oW7mv5gk",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1HhfNACgt1jjEVoh0EVsOYyQ1oW7mv5gk&export=download&confirm=t",
-  "size": 311447867,
-  "sha256": "f76a32c8b3968092ab004e34a0377ff5519765534bbfc4c7760ebbb585462746",
+  "versionCode": 142,
+  "versionName": "第17版",
+  "apkFileId": "1_4iO-DK1Lrfbjk6yDGaH1E9nq9xUpMFU",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1_4iO-DK1Lrfbjk6yDGaH1E9nq9xUpMFU&export=download&confirm=t",
+  "size": 311451963,
+  "sha256": "fe8b9a24e626b844be8b1f0a48807591150d0aae0599ac29d90872cf3836572a",
   "minVersionCode": 0,
-  "notes": "修正：更新到第14、15版後首頁變成舊樣式（圓角、膠囊按鈕）——原因是手機留著舊版樣式表的快取，這版起每個樣式表與程式都帶版本號；另修正畫面較矮的手機（如 iPhone 加入主畫面）首頁說明文字重疊、卡片被下方製作列蓋住。",
+  "notes": "首頁畫面不夠高時改成往下滑（不再壓縮地圖與文字），滑動時右上角鏡頭鈕淡出；卡片名稱照指定位置換行、不再被切掉；山林曆面板重新排版（撕紙白紙、族語標色），圖下改標「臺東大學人社中心科技軸製作」，資料來源放最下面，拿掉桌曆原文沒有的提醒。",
   "published": "2026-11-14"
 }
