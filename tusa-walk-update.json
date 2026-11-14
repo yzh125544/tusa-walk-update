@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 142,
-  "versionName": "第17版",
-  "apkFileId": "1_4iO-DK1Lrfbjk6yDGaH1E9nq9xUpMFU",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1_4iO-DK1Lrfbjk6yDGaH1E9nq9xUpMFU&export=download&confirm=t",
+  "versionCode": 143,
+  "versionName": "第18版",
+  "apkFileId": "1yDGIcsJ5gJJLeSQaIqDDppEZ1Gh6WSI9",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1yDGIcsJ5gJJLeSQaIqDDppEZ1Gh6WSI9&export=download&confirm=t",
   "size": 311451963,
-  "sha256": "fe8b9a24e626b844be8b1f0a48807591150d0aae0599ac29d90872cf3836572a",
+  "sha256": "13f81eb8dd5f3b9900d8bf36ae6bd80854897b00c98f09b1a7213924e26b44ec",
   "minVersionCode": 0,
-  "notes": "首頁畫面不夠高時改成往下滑（不再壓縮地圖與文字），滑動時右上角鏡頭鈕淡出；卡片名稱照指定位置換行、不再被切掉；山林曆面板重新排版（撕紙白紙、族語標色），圖下改標「臺東大學人社中心科技軸製作」，資料來源放最下面，拿掉桌曆原文沒有的提醒。",
+  "notes": "修正：山林曆畫面的「關閉」按鈕會消失（排在很長的面板最底部，打開時看不到）——改成固定在面板底部，隨時都按得到；撕紙白紙陰影改用較穩定的畫法。",
   "published": "2026-11-14"
 }
