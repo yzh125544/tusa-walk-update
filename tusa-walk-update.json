@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.tjuaballab.tusawalk",
-  "versionCode": 140,
-  "versionName": "第15版",
-  "apkFileId": "1tmZh-MZuqYOQI-wkvnkNwHVcbEOYSLIP",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1tmZh-MZuqYOQI-wkvnkNwHVcbEOYSLIP&export=download&confirm=t",
+  "versionCode": 141,
+  "versionName": "第16版",
+  "apkFileId": "1HhfNACgt1jjEVoh0EVsOYyQ1oW7mv5gk",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=1HhfNACgt1jjEVoh0EVsOYyQ1oW7mv5gk&export=download&confirm=t",
   "size": 311447867,
-  "sha256": "bb94ce8dbd7c65ba7967f45f0a8e3ea2adc9a552e4ad5434b6457c58381ffe93",
+  "sha256": "f76a32c8b3968092ab004e34a0377ff5519765534bbfc4c7760ebbb585462746",
   "minVersionCode": 0,
-  "notes": "首頁標題改為「走進土坂，十處記憶。」；實境體驗先自由瀏覽、按「開始走遊」才帶路，走到才打開介紹並收集（到站震動、路上鼓勵）；每站介紹卡依走讀平台文章整理、走讀平台全部照片、位置小地圖、SDGs 圖示；聽故事改成小播放器；自訂行程（十站都能選）、暫停／繼續、離開前確認；導航第一人稱；首頁與走遊地圖動畫更好看。",
+  "notes": "修正：更新到第14、15版後首頁變成舊樣式（圓角、膠囊按鈕）——原因是手機留著舊版樣式表的快取，這版起每個樣式表與程式都帶版本號；另修正畫面較矮的手機（如 iPhone 加入主畫面）首頁說明文字重疊、卡片被下方製作列蓋住。",
   "published": "2026-11-14"
 }
